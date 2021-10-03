@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My Strengths
+
+*This text will be italic*
+_I love Tokyo_
+
+**This text will be bold**
+__T am Ironman__
+
+_You **can** combine them_
